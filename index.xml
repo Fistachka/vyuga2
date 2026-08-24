@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>vyuga2</repo>
-  <version>v1.0.7</version>
+  <version>v1.0.8</version>
   <next number="1" owner="Fistachka" repo="vyuga3"/>
   <readme>
     <ru>3a6dc1573c121c840b6f317a3adf702c4ff43ebe324777d6bc767c74e3d30d99</ru>
@@ -87,14 +87,14 @@
     <tonalities>8</tonalities>
     <video name="13.mp4" size="2518264" type="video/mp4" volume="0.5">e3f0d23812167b80eb8b9cd553c198778c94f92dbd7c4b57e7aa40816142dc5f</video>
     <notes>
-      <note number="1" values="7" ticks="176" durationTicks="72" ppq="96" velocity="0.747"/>
-      <note number="2" values="7" ticks="272" durationTicks="106" ppq="96" velocity="0.834"/>
-      <note number="3" values="7" ticks="416" durationTicks="39" ppq="96" velocity="0.742"/>
-      <note number="4" values="7" ticks="478" durationTicks="78" ppq="96" velocity="0.854"/>
-      <note number="5" values="6" ticks="583" durationTicks="30" ppq="96" velocity="0.744"/>
-      <note number="6" values="6" ticks="641" durationTicks="170" ppq="96" velocity="0.832"/>
-      <note number="7" values="6" ticks="576" durationTicks="95" ppq="96" velocity="0.832"/>
-      <note number="8" values="6" ticks="672" durationTicks="95" ppq="96" velocity="0.832"/>
+      <note number="1" values="28" ticks="96" durationTicks="48" ppq="96" velocity="0.748"/>
+      <note number="2" values="38" ticks="145" durationTicks="93" ppq="96" velocity="0.85"/>
+      <note number="3" values="28" ticks="238" durationTicks="95" ppq="96" velocity="0.732"/>
+      <note number="4" values="18" ticks="332" durationTicks="90" ppq="96" velocity="0.819"/>
+      <note number="5" values="28" ticks="412" durationTicks="46" ppq="96" velocity="0.732"/>
+      <note number="6" values="38" ticks="471" durationTicks="48" ppq="96" velocity="0.724"/>
+      <note number="7" values="48" ticks="515" durationTicks="95" ppq="96" velocity="0.827"/>
+      <note number="8" values="18" ticks="614" durationTicks="95" ppq="96" velocity="0.78"/>
     </notes>
   </exercise>
   <exercise number="6">
