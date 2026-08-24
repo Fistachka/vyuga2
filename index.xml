@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>vyuga2</repo>
-  <version>v1.0.8</version>
+  <version>v1.0.9</version>
   <next number="1" owner="Fistachka" repo="vyuga3"/>
   <readme>
     <ru>3a6dc1573c121c840b6f317a3adf702c4ff43ebe324777d6bc767c74e3d30d99</ru>
@@ -105,14 +105,14 @@
     <tonalities>8</tonalities>
     <video name="14.mp4" size="2703940" type="video/mp4" volume="0.5">4f5b336ef57a1f823bc714710fba7bb743399fd364b13c82d9557a3b23ccb849</video>
     <notes>
-      <note number="1" values="28" ticks="167" durationTicks="103" ppq="96" velocity="0.794"/>
-      <note number="2" values="38" ticks="307" durationTicks="45" ppq="96" velocity="0.72"/>
-      <note number="3" values="48" ticks="374" durationTicks="44" ppq="96" velocity="0.717"/>
-      <note number="4" values="6" ticks="457" durationTicks="106" ppq="96" velocity="0.854"/>
-      <note number="5" values="5" ticks="569" durationTicks="43" ppq="96" velocity="0.737"/>
-      <note number="6" values="5" ticks="644" durationTicks="144" ppq="96" velocity="0.809"/>
-      <note number="7" values="5" ticks="576" durationTicks="95" ppq="96" velocity="0.809"/>
-      <note number="8" values="5" ticks="672" durationTicks="95" ppq="96" velocity="0.809"/>
+      <note number="1" values="18" ticks="120" durationTicks="48" ppq="96" velocity="0.74"/>
+      <note number="2" values="28" ticks="169" durationTicks="93" ppq="96" velocity="0.843"/>
+      <note number="3" values="18" ticks="262" durationTicks="95" ppq="96" velocity="0.724"/>
+      <note number="4" values="79" ticks="356" durationTicks="90" ppq="96" velocity="0.819"/>
+      <note number="5" values="18" ticks="436" durationTicks="46" ppq="96" velocity="0.724"/>
+      <note number="6" values="28" ticks="495" durationTicks="48" ppq="96" velocity="0.717"/>
+      <note number="7" values="38" ticks="539" durationTicks="95" ppq="96" velocity="0.827"/>
+      <note number="8" values="18" ticks="638" durationTicks="95" ppq="96" velocity="0.78"/>
     </notes>
   </exercise>
   <exercise number="7">
