@@ -3,7 +3,7 @@
 "Звенит январская вьюга" ("С любовью встретиться") 1972г. 2 часть
 ![44](https://github.com/user-attachments/assets/5cdf1030-c742-4c5e-bd18-1b55e6aca58d)
 
-<iframe width="315" height="560" src="https://www.youtube.com/embed/s-CUyFQMuMw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="315" height="560" src="https://www.youtube.com/embed/ryju5ZYUBws" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-VcRbvg6HaE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 Звенит январская вьюга
@@ -24,7 +24,7 @@ stolbitsa.com/fistachka/vyuga<br><br>
 “The January Blizzard Sings” “Meeting Love”) 1972 2 st verse
 ![44](https://github.com/user-attachments/assets/5cdf1030-c742-4c5e-bd18-1b55e6aca58d)
 
-<iframe width="315" height="560" src="https://www.youtube.com/embed/oxQ-J7aqKwk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="315" height="560" src="https://www.youtube.com/embed/XEzxaQ3UCtg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RQta7Mc7l_Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 Zvenit yanvarskaya v'yuga
